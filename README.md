@@ -1,4 +1,4 @@
-# Business-Insights-360-of-Atliq-Hardwares
+# Business Insights 360 of Atliq Hardwares
 
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY1ZTVlNzctMWMxNC00OWUyLWIyOTQtM2FhZmEzZjlkMDJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -66,3 +66,5 @@ Info Page
 
 Support Page
 ![sprt](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/897e23dc-3467-4f5d-b10f-98c09fbaa69b)
+
+Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
